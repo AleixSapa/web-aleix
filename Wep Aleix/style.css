@@ -1,0 +1,14 @@
+.Titulos {
+    width: 75px;
+    height: 35px;
+    background-color: purple
+}
+
+a {
+    color: red;
+    background-color: purple;
+}
+
+.ColorRojo {
+    color: red;
+}
