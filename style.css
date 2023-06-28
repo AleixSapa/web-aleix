@@ -11,3 +11,17 @@ a {
 .ColorRojo {
     color: red;
 }
+
+/*estadisticas*/
+
+.estadistica {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.etiqueta {
+    font-weight: bold;
+    margin-right: 10px;
+}
